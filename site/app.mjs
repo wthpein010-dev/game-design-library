@@ -1,5 +1,6 @@
 import {filterResources,parseBackup,mergeStudy,escapeHtml as e} from './core.mjs';
-const main=document.querySelector('#main'), KEY='game-design-library.study.v1';
+import {STUDY_KEY as KEY,readStudy,applyStudyPatch,importStudy} from './study-store.mjs';
+const main=document.querySelector('#main');
 let catalog,lessonPromise,study={},noticeTimer,renderToken=0;
 try{const raw=localStorage.getItem(KEY);if(raw)study=parseBackup(raw);}catch{notify('学习记录暂时无法读取。原数据未被覆盖，请先检查浏览器存储或导入备份。');}
 const state=()=>Object.fromEntries(new URLSearchParams(location.search));
@@ -8,8 +9,12 @@ const icons={'课程':'课','视频':'▷','文章':'文','资源导航':'↗'};
 const date=s=>s?String(s).slice(0,10):'未标注';
 const safeLink=url=>{try{const u=new URL(url);return ['https:','http:'].includes(u.protocol)?u.href:'#';}catch{return '#';}};
 function notify(message){clearTimeout(noticeTimer);document.querySelector('#notice').textContent=message;noticeTimer=setTimeout(()=>document.querySelector('#notice').textContent='',4500);}
-function commit(next){try{localStorage.setItem(KEY,JSON.stringify({schema:1,records:next}));study=next;return true;}catch{notify('未能保存：浏览器存储可能已满或被禁用。请导出备份后重试。');return false;}}
-function updateStudy(id,patch){return commit({...study,[id]:{note:'',saved:false,status:'todo',...study[id],...patch}});}
+async function mutateStudy(action){
+ const run=()=>{try{study=action(localStorage);return true;}catch{notify('未能保存，原数据已保留。请先导出原始备份，再检查文件格式或浏览器存储。');return false;}};
+ // Serialize across same-origin tabs; always read current data inside the lock.
+ return navigator.locks? navigator.locks.request(KEY,run):run();
+}
+function updateStudy(id,patch){return mutateStudy(storage=>applyStudyPatch(storage,id,patch));}
 function navigate(values,replace=false){const q=new URLSearchParams(location.search);for(const [k,v] of Object.entries(values)){if(v)q.set(k,v);else q.delete(k);}history[replace?'replaceState':'pushState']({},'',`?${q}`);render();}
 function urlFor(values){const q=new URLSearchParams(location.search);for(const [k,v] of Object.entries(values)){if(v)q.set(k,v);else q.delete(k);}return '?'+q;}
 function row(r){return `<article class="resource-row"><span class="type-icon" aria-hidden="true">${icons[r.kind]||'文'}</span><div><h3><a data-id="${e(r.id)}" href="${e(urlFor({id:r.id,topic:''}))}">${e(r.title)}</a></h3><p>${e(r.summary||'打开详情查看出处，阅读原文后记录自己的理解。')}</p><div class="metadata"><span class="badge">${e(r.category)}</span><span>${e(r.kind)} · ${r.language==='zh'?'中文':'英文'}</span><span>${e(r.author||r.source)}</span>${r.kind==='文章'?`<span>发表于 ${date(r.published_at)}</span>`:''}<span>${e(r.review)}</span></div></div><button class="save" data-save="${e(r.id)}" aria-label="${study[r.id]?.saved?'取消收藏':'收藏'} ${e(r.title)}" aria-pressed="${!!study[r.id]?.saved}">${study[r.id]?.saved?'★':'☆'}</button></article>`;}
@@ -21,7 +26,7 @@ function renderLibrary(s){
  main.innerHTML=intro(titles[view],desc[view])+ (view==='library'?`<div class="quick-path"><a class="path" href="?view=topics" data-nav="topics"><span class="arrow">↗</span><small>循序学习</small><b>从规则到玩家体验</b><small>${catalog.lesson_count}课 · 原理、推导与练习</small></a><a class="path" href="?view=videos" data-nav="videos"><span class="arrow">↗</span><small>观察与拆解</small><b>打开视频书架</b><small>${catalog.video_count}个视频／分集 · 保留原站</small></a><a class="path" href="?view=updates" data-nav="updates"><span class="arrow">↗</span><small>持续积累</small><b>新文章与旧资料</b><small>每日检查 · 分批补录历史</small></a></div>`:'')+
  (view==='study'?`<div class="detail-actions"><button data-export>导出学习记录</button><button data-import>导入备份</button><small>导入时合并新增记录，保留本机已有笔记。</small></div><div class="chips">${[['','全部记录'],['saved','已收藏'],['reading','在读'],['done','已读']].map(([v,t])=>`<button class="chip" data-study="${v}" aria-pressed="${(s.study||'')===v}">${t}</button>`).join('')}</div>`:'')+
  `<div class="section-head"><h2>${view==='library'?'探索资料':view==='videos'?'找一段值得看的视频':'继续积累'}</h2><span class="muted" id="total-label"></span></div>
- <div class="searchbar"><div class="search-wrap"><span class="search-icon" aria-hidden="true">⌕</span><input id="search" type="search" aria-label="搜索资料" placeholder="搜索主题、标题、作者或关键词" value="${e(s.q||'')}"><button class="clear" id="clear" aria-label="清除搜索" ${s.q?'':'hidden'}>×</button></div><label class="filter-label">语言<select id="language"><option value="">全部语言</option><option value="zh">中文</option><option value="en">英文</option></select></label><label class="filter-label">排序<select id="sort"><option value="">学习顺序</option><option value="recent">最近收录</option><option value="published">发表时间</option></select></label></div>
+ <div class="searchbar"><div class="search-wrap"><span class="search-icon" aria-hidden="true">⌕</span><input id="search" type="search" aria-label="搜索资料" placeholder="搜索主题、标题、作者或关键词" value="${e(s.q||'')}"><button class="clear" id="clear" aria-label="清除搜索" ${s.q?'':'hidden'}>×</button></div><label class="filter-label">语言<select id="language" aria-label="语言"><option value="">全部语言</option><option value="zh">中文</option><option value="en">英文</option></select></label><label class="filter-label">排序<select id="sort" aria-label="排序"><option value="">学习顺序</option><option value="recent">最近收录</option><option value="published">发表时间</option></select></label></div>
  <div class="chips" aria-label="知识分类">${['',...new Set(catalog.resources.map(r=>r.category))].map(c=>`<button class="chip" data-category="${e(c)}" aria-pressed="${(s.category||'')===c}">${e(c||'全部主题')}</button>`).join('')}</div>
  ${view!=='videos'?`<div class="chips" aria-label="资料类型">${['','课程','文章','视频','资源导航'].map(k=>`<button class="chip" data-kind="${k}" aria-pressed="${(s.kind||'')===k}">${k||'全部类型'}</button>`).join('')}</div>`:''}<div id="results"></div>`;
  document.querySelector('#language').value=s.language||'';document.querySelector('#sort').value=s.sort||'';
@@ -50,8 +55,8 @@ async function renderDetail(r,token){
  ${r.kind==='文章'?`<section class="panel"><h2>阅读前</h2><p>${e(r.summary_type)}，非全文转载。自动索引仅核对可读取的元数据，尚未逐篇人工审读。</p><p>阅读原文时，区分作者的事实、解释与建议；再思考结论适用于什么玩家和条件。</p></section>`:''}
  <div id="lesson-content"></div>${studyPanel(r)}</article>`;
  document.querySelector('#reading-status').value=study[r.id]?.status||'todo';
- document.querySelector('#reading-status').onchange=ev=>{if(updateStudy(r.id,{status:ev.target.value}))notify('阅读状态已保存');};
- const note=document.querySelector('#note');note.oninput=()=>{const ok=updateStudy(r.id,{note:note.value});document.querySelector('#note-status').textContent=ok?'已保存到当前浏览器。导出备份可带到另一台设备。':'保存失败，请复制笔记并检查浏览器存储。';note.style.height='auto';note.style.height=Math.min(600,Math.max(140,note.scrollHeight))+'px';};
+ document.querySelector('#reading-status').onchange=async ev=>{if(await updateStudy(r.id,{status:ev.target.value}))notify('阅读状态已保存');};
+ const note=document.querySelector('#note');note.oninput=async()=>{const ok=await updateStudy(r.id,{note:note.value});document.querySelector('#note-status').textContent=ok?'已保存到当前浏览器。导出备份可带到另一台设备。':'保存失败，请复制笔记并检查浏览器存储。';note.style.height='auto';note.style.height=Math.min(600,Math.max(140,note.scrollHeight))+'px';};
  if(r.lesson_id){
   document.querySelector('#lesson-content').innerHTML='<div class="loading" role="status">正在读取课程…</div>';
   try{lessonPromise??=fetch('data/lessons.json').then(res=>{if(!res.ok)throw Error('课程读取失败');return res.json();});const lessons=await lessonPromise;if(token!==renderToken)return;const lesson=lessons.find(l=>l.id===r.lesson_id);if(!lesson)throw Error('课程未找到');
@@ -66,7 +71,7 @@ async function render(){if(!catalog)return;const token=++renderToken,s=state(),v
  if(s.topic){const t=catalog.topics.find(t=>t.id===s.topic);if(t)return renderTopic(t);}
  if(view==='topics')renderTopics();else if(view==='updates')renderUpdates();else renderLibrary({...s,view});
 }
-document.addEventListener('click',ev=>{
+document.addEventListener('click',async ev=>{
  const el=ev.target.closest('button,a');if(!el)return;
  if(el.matches('[data-view],[data-nav]')){ev.preventDefault();history.pushState({},'',`?view=${el.dataset.view||el.dataset.nav}`);render();window.scrollTo(0,0);}
  else if(el.hasAttribute('data-id')){ev.preventDefault();navigate({id:el.dataset.id,topic:''});window.scrollTo(0,0);}
@@ -77,13 +82,15 @@ document.addEventListener('click',ev=>{
  else if(el.hasAttribute('data-study'))navigate({study:el.dataset.study,page:''});
  else if(el.hasAttribute('data-page')){navigate({page:el.dataset.page});document.querySelector('#search')?.focus();}
  else if(el.hasAttribute('data-reset'))navigate({q:'',category:'',kind:'',language:'',page:'',study:''});
- else if(el.hasAttribute('data-save')){const id=el.dataset.save,saved=!study[id]?.saved;if(updateStudy(id,{saved})){document.querySelectorAll(`[data-save="${CSS.escape(id)}"]`).forEach(b=>{b.setAttribute('aria-pressed',String(saved));b.textContent=b.classList.contains('save')?(saved?'★':'☆'):(saved?'已收藏 ★':'收藏 ☆');b.setAttribute('aria-label',saved?'取消收藏':'收藏');});notify(saved?'已收藏到我的学习':'已取消收藏');if(state().view==='study'&&!state().id)render();}}
+ else if(el.hasAttribute('data-save')){const id=el.dataset.save,saved=!study[id]?.saved;if(await updateStudy(id,{saved})){document.querySelectorAll(`[data-save="${CSS.escape(id)}"]`).forEach(b=>{b.setAttribute('aria-pressed',String(saved));b.textContent=b.classList.contains('save')?(saved?'★':'☆'):(saved?'已收藏 ★':'收藏 ☆');b.setAttribute('aria-label',saved?'取消收藏':'收藏');});notify(saved?'已收藏到我的学习':'已取消收藏');if(state().view==='study'&&!state().id)render();}}
  else if(el.hasAttribute('data-play')){const r=catalog.resources.find(r=>r.id===el.dataset.play);if(!r||!/^BV[a-zA-Z0-9]+$/.test(r.bvid))return;const frame=document.createElement('iframe');frame.src=`https://player.bilibili.com/player.html?bvid=${encodeURIComponent(r.bvid)}&page=${Number(r.page)||1}&autoplay=0`;frame.title=r.title;frame.allow='fullscreen';frame.allowFullscreen=true;document.querySelector('#video-shell').replaceChildren(frame);}
- else if(el.hasAttribute('data-export')){const blob=new Blob([JSON.stringify({schema:1,records:study},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='game-design-study.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);notify('学习记录备份已生成');}
+ else if(el.hasAttribute('data-export')){let raw;try{raw=localStorage.getItem(KEY)||JSON.stringify({schema:1,records:study});}catch{raw=JSON.stringify({schema:1,records:study});}const blob=new Blob([raw],{type:'application/json'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download='game-design-study.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);notify('学习记录备份已生成');}
  else if(el.hasAttribute('data-import'))document.querySelector('#import-file').click();
  else if(el.hasAttribute('data-retry'))render();
 });
-document.querySelector('#import-file').onchange=async ev=>{const file=ev.target.files[0];if(!file)return;try{if(file.size>5_000_000)throw Error('备份超过5MB。');const incoming=parseBackup(await file.text());if(commit(mergeStudy(study,incoming))){notify('备份已合并，本机已有记录已保留');render();}}catch(error){notify('导入失败：'+error.message);}finally{ev.target.value='';}};
+document.querySelector('#import-file').onchange=async ev=>{const file=ev.target.files[0];if(!file)return;try{if(file.size>5_000_000)throw Error('备份超过5MB。');const incoming=parseBackup(await file.text());if(await mutateStudy(storage=>importStudy(storage,incoming))){notify('备份已合并，本机已有记录已保留');render();}}catch(error){notify('导入失败：'+error.message);}finally{ev.target.value='';}};
 window.addEventListener('popstate',()=>render());
 async function load(){try{const res=await fetch('data/catalog.json');if(!res.ok)throw Error('目录读取失败');catalog=await res.json();document.querySelector('#nav-count').textContent=catalog.resources.length;document.querySelector('#sync-label').textContent=catalog.updates[0]?`最近同步 ${date(catalog.updates[0].at)} ↗`:'查看来源与更新 ↗';render();}catch{main.innerHTML='<div class="empty"><h1>资料暂时未能打开</h1><p>请检查网络后重试，学习记录仍保存在本机。</p><button id="retry-load">重新加载</button></div>';document.querySelector('#retry-load').onclick=load;}}
 load();
+
+window.addEventListener('storage',ev=>{if(ev.key!==KEY)return;try{study=readStudy(localStorage);if(!state().id)render();}catch{notify('另一个页面的存储变更无法读取，已保留原数据。');}});
