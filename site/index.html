@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="长期学习游戏策划：原理、案例、数值、玩家心理与制作工具。50课、B站视频、公开文章与每日更新的知识数据库。"><title>游戏策划知识库</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="tokens.css"><link rel="stylesheet" href="styles.css"></head>
+<body>
+<a class="skip" href="#main">跳到内容</a>
+<div class="shell">
+<aside class="sidebar">
+ <a class="brand" href="./"><span class="brand-mark">策</span><span>游戏策划知识库<small>GAME DESIGN LIBRARY</small></span></a>
+ <p class="nav-label">资料室</p>
+ <nav aria-label="主导航" id="nav">
+  <a href="?view=library" data-view="library"><span>▤</span> 全部资料 <b id="nav-count"></b></a>
+  <a href="?view=topics" data-view="topics"><span>▥</span> 专题学习</a>
+  <a href="?view=videos" data-view="videos"><span>▷</span> 视频书架</a>
+  <a href="?view=study" data-view="study"><span>☆</span> 我的学习</a>
+  <a href="?view=updates" data-view="updates"><span>↻</span> 来源与更新</a>
+ </nav>
+ <div class="sidebar-bottom"><p>知识可以积累，<br>设计需要验证。</p><a href="data/knowledge.sqlite" download>↓ 下载知识数据库</a><a href="https://github.com/wthpein010-dev/game-design-library" target="_blank" rel="noopener">GitHub 仓库 ↗</a><small>开放资料 · 免费访问</small></div>
+</aside>
+<div class="workspace">
+ <header class="topbar"><span>原理 / 案例 / 实践</span><a href="?view=updates" id="sync-label">读取更新记录…</a></header>
+ <main id="main" tabindex="-1"><div class="loading" role="status">正在打开资料室…</div></main>
+ <footer>游戏策划知识库 · 资料保留作者与出处。个人笔记仅存当前浏览器。<a href="?view=updates">查看收录规则</a></footer>
+</div></div>
+<div id="notice" class="notice" role="status" aria-live="polite"></div>
+<input id="import-file" type="file" accept="application/json,.json" hidden>
+<script type="module" src="app.mjs"></script>
+</body></html>

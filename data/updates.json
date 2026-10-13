@@ -1,0 +1,456 @@
+[
+  {
+    "at": "2026-10-13T01:54:46+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-13T01:54:46+00:00",
+        "new": 33,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 338,
+        "status": "ok",
+        "fetched": 33
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-13T01:54:46+00:00",
+        "new": 18,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 7,
+        "status": "ok",
+        "fetched": 18
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-13T01:54:46+00:00",
+        "new": 18,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 12,
+        "status": "ok",
+        "fetched": 18
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-3bd65be216b1cf14",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #98: Xalavier Nelson – Part 1"
+      },
+      {
+        "id": "r-e78cf81d41ce4ec6",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #97: My Perfect Console – Soren Johnson"
+      },
+      {
+        "id": "r-d7d38c08b3faaa3c",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #96: Owen Mahoney"
+      },
+      {
+        "id": "r-0756b3d27527fd8e",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #95: Seth Sivak"
+      },
+      {
+        "id": "r-1d9d20ccfd82d082",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #94: Charles Cecil – Part 2"
+      },
+      {
+        "id": "r-df23656f3dd51864",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #93: Charles Cecil – Part 1"
+      },
+      {
+        "id": "r-ab168267aa642b49",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes… Live at GDC! (with Frank Lantz)"
+      },
+      {
+        "id": "r-07ea675fff536d88",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #92: Paul Kilduff-Taylor"
+      },
+      {
+        "id": "r-106068d55faf68fc",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #91: Tomislav Uzelac"
+      },
+      {
+        "id": "r-d698db82c41bf427",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #90: Patrice Desilets – Part 2"
+      },
+      {
+        "id": "r-64910bddfc1fa861",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #89: Patrice Desilets – Part 1"
+      },
+      {
+        "id": "r-5255d1751e0879e1",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #88: Caroline Marchal – Part 2"
+      },
+      {
+        "id": "r-cf3768dc162b95dc",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #87: Caroline Marchal – Part 1"
+      },
+      {
+        "id": "r-8496ef03faf28c61",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #86: Anton Strenger"
+      },
+      {
+        "id": "r-dbf00ebccfd903ff",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Thoughts on the 2024 Election"
+      },
+      {
+        "id": "r-be33d5391724eaee",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #85: Zach Barth – Part 2"
+      },
+      {
+        "id": "r-482cb2c5450379c1",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes #84: Zach Barth – Part 1"
+      },
+      {
+        "id": "r-0dadb7ea5e59e279",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 83: Mitch Lasky – Part 2"
+      },
+      {
+        "id": "r-ce8c749a1e713f9d",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 82: Mitch Lasky – Part 1"
+      },
+      {
+        "id": "r-aaccd83def58960e",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 81: Jake Solomon – Part 2"
+      },
+      {
+        "id": "r-a411c049e78c3346",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Donkeyspace AI Interview"
+      },
+      {
+        "id": "r-f7f0ce616bedb530",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 80: Jake Solomon – Part 1"
+      },
+      {
+        "id": "r-18999ef6cf7810cc",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 79: Trent Kusters – Part 2"
+      },
+      {
+        "id": "r-f1b4a035308def72",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Designer Notes 78: Trent Kusters – Part 1"
+      },
+      {
+        "id": "r-87a8b715b0a98359",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "You Have No Idea How Hard It Is To Run A Sweatshop, Part 3"
+      },
+      {
+        "id": "r-fb0550eaff5c009a",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "100 Million Sims"
+      },
+      {
+        "id": "r-c28074419c3012d8",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "2013 Podcast Roundup"
+      },
+      {
+        "id": "r-1d9d467af146b6c7",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "25 Years of Civilization"
+      },
+      {
+        "id": "r-f5c323ac8721639f",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "3 Million Copies"
+      },
+      {
+        "id": "r-21977fb7736bec01",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Plants vs. Zombies 2: Between Scylla and Charybdis"
+      },
+      {
+        "id": "r-40b16bde4b3ecd4b",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "8 Things Not To Do… (Part I)"
+      },
+      {
+        "id": "r-18cd51056802ad93",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "8 Things Not To Do… (Part II)"
+      },
+      {
+        "id": "r-c79008cc9254188c",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "A Farewell to Civ"
+      },
+      {
+        "id": "r-65b59a4496dd363a",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "“I just found this blog, what do I do?”"
+      },
+      {
+        "id": "r-579cb18b243b57f7",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 20: Course Summary and Next Steps"
+      },
+      {
+        "id": "r-7db4c8c70fff20e9",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 19: Game Criticism and Analysis"
+      },
+      {
+        "id": "r-619cb6e7293fbcea",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 18: The Final Iteration"
+      },
+      {
+        "id": "r-c5a956c060e852e3",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 17: User Interfaces"
+      },
+      {
+        "id": "r-2f1e668ccc1c1147",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 16: Game Balance"
+      },
+      {
+        "id": "r-25177274619a704d",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 15: Blindtesting"
+      },
+      {
+        "id": "r-8288426181a708d2",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 14: Playing with Non-Designers"
+      },
+      {
+        "id": "r-209b225f3360540e",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 13: Playing With Designers"
+      },
+      {
+        "id": "r-fa3da23129463888",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 12: Solo Testing"
+      },
+      {
+        "id": "r-b9503c9d6ecba8ba",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Coming Soon…"
+      },
+      {
+        "id": "r-0a8e820de14c4153",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "What is Game Design Concepts?"
+      },
+      {
+        "id": "r-7975b2fc80e4f840",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Syllabus and Schedule"
+      },
+      {
+        "id": "r-895583560520a89c",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Repeat: Registration Instructions"
+      },
+      {
+        "id": "r-f61eeb2f321879a1",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 1: Overview / What is a Game?"
+      },
+      {
+        "id": "r-5b9214458ad85fc7",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 2: Game Design / Iteration and Rapid Prototyping"
+      },
+      {
+        "id": "r-af1d33e26c23e115",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 3: Formal Elements of Games"
+      },
+      {
+        "id": "r-f78a3521cc9a0701",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Level 4: The Early Stages of the Design Process"
+      },
+      {
+        "id": "r-fff00a170946ab22",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "The Game Mechanic Oracle"
+      },
+      {
+        "id": "r-8419ab58d0e47421",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Design Patterns: A Constraint-First Framework"
+      },
+      {
+        "id": "r-a22a942cb5d51efa",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Small Teams, Big Ideas: The Games We Support"
+      },
+      {
+        "id": "r-22fdb83dd19b58ab",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Rituals: the Secret to Deep Player Engagement?"
+      },
+      {
+        "id": "r-6b5e585d59acd87c",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Game Development Process: Keys for a Better Pipeline"
+      },
+      {
+        "id": "r-a2ba990559cbf390",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Live Games: How to Prepare for the Long Run"
+      },
+      {
+        "id": "r-d74021ffa91ce137",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Interface In Game: Interview With Nicolas Kraj"
+      },
+      {
+        "id": "r-3255400f9b75dd13",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "The Design of the Royal Game of Ur"
+      },
+      {
+        "id": "r-2ce2dbea4868131c",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Game Design Knowledge From Our Members"
+      },
+      {
+        "id": "r-effe8fa40632ec68",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "How to Answer a Game Design Test?"
+      },
+      {
+        "id": "r-0e0fcb88add8ee84",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "A Story of Boxes, and How Players Can't Think Outside of It - GDKeys"
+      },
+      {
+        "id": "r-b7851203dcca80c5",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "AI: Keys to Believable Enemies - GDKeys"
+      },
+      {
+        "id": "r-04ecd31d966b4ef3",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Design Tool: Designing an AI Decision Tree - GDKeys"
+      },
+      {
+        "id": "r-6912bf77e0c2ff0f",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Design Tool: Enemy One-Pager - GDKeys"
+      },
+      {
+        "id": "r-6f0187b276293abd",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Design Tool: Signs & Feedback - GDKeys"
+      },
+      {
+        "id": "r-e6106a0b51987628",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Game Design Dirty Little Secrets - GDKeys"
+      },
+      {
+        "id": "r-472ab51a4a9d51fc",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Introduction to Players Motivation - GDKeys"
+      },
+      {
+        "id": "r-277183862454764e",
+        "action": "added",
+        "at": "2026-10-13T01:54:46+00:00",
+        "title": "Keys to Efficient User Interfaces - GDKeys"
+      }
+    ]
+  }
+]

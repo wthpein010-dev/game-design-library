@@ -1,0 +1,101 @@
+[
+  {
+    "id": "designer-notes",
+    "name": "Designer Notes",
+    "url": "https://www.designer-notes.com/",
+    "feed": "https://www.designer-notes.com/feed/",
+    "sitemap": "https://www.designer-notes.com/sitemap.xml",
+    "category": "玩法与系统",
+    "language": "en",
+    "author": "Soren Johnson",
+    "enabled": true,
+    "archive_pattern": "designer-notes.com/(?!category/|tag/|about|feed|wp-|page/).+",
+    "note": "设计师文章与访谈；每天读取RSS并补录历史文章。",
+    "exclude_pattern": "election|wedding|vacation"
+  },
+  {
+    "id": "game-design-concepts",
+    "name": "Game Design Concepts",
+    "url": "https://gamedesignconcepts.wordpress.com/",
+    "feed": "https://gamedesignconcepts.wordpress.com/feed/",
+    "sitemap": "https://gamedesignconcepts.wordpress.com/sitemap.xml",
+    "category": "玩法与系统",
+    "language": "en",
+    "author": "Ian Schreiber",
+    "enabled": true,
+    "archive_pattern": "/20[0-9]{2}/",
+    "note": "经典设计课程；保留原始发表时间，补录不标为新发表。",
+    "exclude_pattern": "hello-world|registration|coming soon"
+  },
+  {
+    "id": "gdkeys",
+    "name": "GDKeys",
+    "url": "https://gdkeys.com/",
+    "feed": "https://gdkeys.com/feed/",
+    "sitemap": "https://gdkeys.com/wp-sitemap.xml",
+    "category": "关卡与叙事",
+    "language": "en",
+    "enabled": true,
+    "archive_pattern": "gdkeys.com/(?!category/|tag/|author/|page/|wp-|feed).+",
+    "note": "游戏与关卡设计文章；来源失败保留旧索引。",
+    "exclude_pattern": "the-games-we-support|privacy|contact|membership|cookie"
+  },
+  {
+    "id": "lostgarden",
+    "name": "Lostgarden",
+    "url": "https://lostgarden.com/",
+    "category": "玩法与系统",
+    "language": "en",
+    "enabled": false,
+    "note": "公开资源入口。robots列有AI代理限制，本项目暂不自动采集。",
+    "exclude_pattern": ""
+  },
+  {
+    "id": "indienova",
+    "name": "indienova 独立精神",
+    "url": "https://indienova.com/",
+    "category": "制作与工具",
+    "language": "zh",
+    "enabled": false,
+    "note": "中文资源入口。当前自动访问robots返回403，暂不自动采集。",
+    "exclude_pattern": ""
+  },
+  {
+    "id": "qq-cases",
+    "name": "麦克老狼档案馆",
+    "url": "https://docs.qq.com/sheet/DVkhwV25kSGNWeGpl?tab=mcqid4",
+    "category": "案例与拆解",
+    "language": "zh",
+    "enabled": false,
+    "note": "参考表的游戏名称、开发商、立项创意、类型与玩法字段；保留原表入口，未全量复制。",
+    "exclude_pattern": ""
+  },
+  {
+    "id": "qq-wiki",
+    "name": "独立游戏共建知识百科",
+    "url": "https://docs.qq.com/sheet/DWWtxbVFWZ25OZWJU?tab=BB08J2",
+    "category": "制作与工具",
+    "language": "zh",
+    "enabled": false,
+    "note": "参考书籍、产品、设计、技术、工具等分类；只读核验导航及设计干货样例，未全量导入。",
+    "exclude_pattern": ""
+  },
+  {
+    "id": "textbook",
+    "name": "游戏设计50课",
+    "url": "https://wthpein010-dev.github.io/ai-application-hub/projects/game-design-textbook/",
+    "category": "玩法与系统",
+    "language": "zh",
+    "enabled": false,
+    "note": "已发布的50课正文、脑图与练习已纳入本站；全文音频沿用原公开站。"
+  },
+  {
+    "id": "bilibili",
+    "name": "B站视频学习册",
+    "url": "https://rpv4d9p6q2.feishu.cn/docx/DNrEdzeTmobmgYxT7C5cRpWznfo",
+    "category": "玩法与系统",
+    "language": "zh",
+    "enabled": false,
+    "note": "原学习册62条与素材库补充合并为63个唯一视频／分集，保留原站播放器。"
+  }
+]
