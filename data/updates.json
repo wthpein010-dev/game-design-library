@@ -1,5 +1,183 @@
 [
   {
+    "at": "2026-10-13T02:19:11+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-13T02:19:11+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 304,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-13T02:19:11+00:00",
+        "new": 7,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 17
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-13T02:19:11+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 4,
+        "status": "ok",
+        "fetched": 17
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-d1f6364cf53a4232",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A History of Fall from Heaven (Part I)"
+      },
+      {
+        "id": "r-207029e5f77bc39e",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A History of Fall from Heaven (Part II)"
+      },
+      {
+        "id": "r-6291e2229831ab15",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A History of Fall from Heaven (Part III)"
+      },
+      {
+        "id": "r-c71bdb81c2b7a55a",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A Love That Dare Not Speak Its Name"
+      },
+      {
+        "id": "r-1b3fe9945ac88fc0",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A Moveable Interface…"
+      },
+      {
+        "id": "r-f5075733358f8859",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A One Man Board Game Buyer’s Guide (Part I)"
+      },
+      {
+        "id": "r-64d38ef61bfec468",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A One Man Board Game Buyer’s Guide (Part II)"
+      },
+      {
+        "id": "r-c73a7e01edb0244b",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "A Star is Born"
+      },
+      {
+        "id": "r-66dbe3e9318f9ee6",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 5: Mechanics and Dynamics"
+      },
+      {
+        "id": "r-88ada0bafa35f89e",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 6: Games and Art"
+      },
+      {
+        "id": "r-63ad5d487985d28c",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 7: Decision-Making and Flow Theory"
+      },
+      {
+        "id": "r-3c3ef50daf406f6d",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 8: Kinds of Fun, Kinds of Players"
+      },
+      {
+        "id": "r-8766ba2daf735b9e",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 9: Stories and Games"
+      },
+      {
+        "id": "r-17ef713ad22fb312",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 10: Nonlinear Storytelling"
+      },
+      {
+        "id": "r-2db54c16b418acc4",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Level 11: Design Project Overview"
+      },
+      {
+        "id": "r-d112d9a30012024e",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Keys to Signs & Feedback - GDKeys"
+      },
+      {
+        "id": "r-74623e5a6b7a2cda",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Keys to Combat Design: Anatomy of an Attack - GDKeys"
+      },
+      {
+        "id": "r-40da69adb1656e9d",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Keys to Economic Systems - GDKeys"
+      },
+      {
+        "id": "r-c3e718017815df5d",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Keys to Meaningful Skill Trees - GDKeys"
+      },
+      {
+        "id": "r-af2f76790a90a611",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Keys to Rational Enemy Design - GDKeys"
+      },
+      {
+        "id": "r-569cb1b2db9cd7bf",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "Menus & HUD: the Temporality Perspective - GDKeys"
+      },
+      {
+        "id": "r-adbf636897c846cf",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "How to Onboard Players - GDKeys"
+      },
+      {
+        "id": "r-437d0f986d5f5108",
+        "action": "added",
+        "at": "2026-10-13T02:19:11+00:00",
+        "title": "The Card Games UI Design of Fairtravel Battle - GDKeys"
+      }
+    ]
+  },
+  {
     "at": "2026-10-13T01:54:46+00:00",
     "sources": [
       {
