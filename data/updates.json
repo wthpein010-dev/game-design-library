@@ -1,5 +1,117 @@
 [
   {
+    "at": "2026-10-14T04:59:39+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-14T04:59:39+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 296,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-14T04:59:39+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-14T04:59:39+00:00",
+        "new": 4,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 13
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-1280f6db74e7d894",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "A Study in Transparency"
+      },
+      {
+        "id": "r-bd6bd2b9d1e2433a",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "Advanced Protection"
+      },
+      {
+        "id": "r-89aff95d9e333039",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "AI and Designers Discussion"
+      },
+      {
+        "id": "r-7199b5f9f63e2100",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "Ancient Strategy Games"
+      },
+      {
+        "id": "r-b713b6611ba0772a",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "And the Answer is…"
+      },
+      {
+        "id": "r-1512785f56908c75",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "ApolyCon ’06"
+      },
+      {
+        "id": "r-79c35b56cc6cc29d",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "Are Games Movies… or Cars?"
+      },
+      {
+        "id": "r-e6679c1824fcf36c",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "Awesomeness"
+      },
+      {
+        "id": "r-6309080f65d64f02",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "The 8 Components of Timeless Board Games - GDKeys"
+      },
+      {
+        "id": "r-a88cdce1e59facca",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "The Organic Teaching of Exophobia: a Doors' Story - GDKeys"
+      },
+      {
+        "id": "r-764087873505b71b",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "The Unique Selling Point of Weaving Tides - GDKeys"
+      },
+      {
+        "id": "r-5d8c91071bfdb343",
+        "action": "added",
+        "at": "2026-10-14T04:59:39+00:00",
+        "title": "Tips to Apply for a Game Designer Position - GDKeys"
+      }
+    ]
+  },
+  {
     "at": "2026-10-13T02:19:11+00:00",
     "sources": [
       {
