@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-15T04:47:46+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-15T04:47:46+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 288,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-15T04:47:46+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-15T04:47:46+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-b3501526cbdcf3e8",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Baba Yetu"
+      },
+      {
+        "id": "r-581d5f77a88e723f",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Back to School"
+      },
+      {
+        "id": "r-ae0fb828c27e0941",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Before the Noise…"
+      },
+      {
+        "id": "r-ec78416c18d261de",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Being Awesome: Will Wright"
+      },
+      {
+        "id": "r-9bf8b9267dc1977f",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Beyond the Sword"
+      },
+      {
+        "id": "r-e80178995c103222",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Blasts from the Past"
+      },
+      {
+        "id": "r-149d9f6643a7d430",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Calling All Dawns"
+      },
+      {
+        "id": "r-2a0540c78fac82b4",
+        "action": "added",
+        "at": "2026-10-15T04:47:46+00:00",
+        "title": "Choosing the Soundtrack for Civ 4"
+      }
+    ]
+  },
+  {
     "at": "2026-10-14T04:59:39+00:00",
     "sources": [
       {
