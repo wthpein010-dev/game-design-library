@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-16T04:38:11+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-16T04:38:11+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 280,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-16T04:38:11+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-16T04:38:11+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-ceb9f113885d79aa",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Christopher Tin Inteview"
+      },
+      {
+        "id": "r-e4245f011645387f",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Civ 4 Afterword"
+      },
+      {
+        "id": "r-f0097c835e6aa626",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Colonization Returns"
+      },
+      {
+        "id": "r-1ad4d25c47ac6551",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Coming Out the End of the Tunnel"
+      },
+      {
+        "id": "r-4df6f1e4582aaa51",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Dear Microsoft,"
+      },
+      {
+        "id": "r-98f9541d9f378bb7",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Dear Paul Barnett"
+      },
+      {
+        "id": "r-b3696c26eb2a09c8",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Team Fortress 2: Better than Rock, Paper, Scissors"
+      },
+      {
+        "id": "r-5a8d764619b48221",
+        "action": "added",
+        "at": "2026-10-16T04:38:11+00:00",
+        "title": "Design of the Times"
+      }
+    ]
+  },
+  {
     "at": "2026-10-15T04:47:46+00:00",
     "sources": [
       {
