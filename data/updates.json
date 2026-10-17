@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-17T04:35:04+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-17T04:35:04+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 272,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-17T04:35:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-17T04:35:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-271c49da5e369d4c",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Design of the Times"
+      },
+      {
+        "id": "r-0ed9b06b5d755270",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #10: Nina Freeman"
+      },
+      {
+        "id": "r-d7a01ccd44fc4b4f",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #11: Chris Avellone"
+      },
+      {
+        "id": "r-92f4916bb97ea431",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #12: Davey Wreden"
+      },
+      {
+        "id": "r-37743f0ea5a0e0fe",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #13: Jamie Cheng"
+      },
+      {
+        "id": "r-cf70f62d60fec741",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #14: Mark Herman"
+      },
+      {
+        "id": "r-fb05d4787c830b2a",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #15: Nels Anderson"
+      },
+      {
+        "id": "r-02e6a34d8d3085b8",
+        "action": "added",
+        "at": "2026-10-17T04:35:04+00:00",
+        "title": "Designer Notes #16: Tyriq Plummer"
+      }
+    ]
+  },
+  {
     "at": "2026-10-16T04:38:11+00:00",
     "sources": [
       {
