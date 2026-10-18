@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-18T04:40:19+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-18T04:40:19+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 264,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-18T04:40:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-18T04:40:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-8aedec673d0ff1cd",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #17: Ananda Gupta"
+      },
+      {
+        "id": "r-63244d70ee44676e",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #18: Offworld Trading Company"
+      },
+      {
+        "id": "r-cee756afbfd75dad",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #19: Louis Castle"
+      },
+      {
+        "id": "r-e2ee8948a8a0aa4d",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #20: Liz Ryerson"
+      },
+      {
+        "id": "r-118de9cf0562db41",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #21: Amy Hennig – Part 1"
+      },
+      {
+        "id": "r-07a06b77e6dec9a1",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes #22: Amy Hennig – Part 2"
+      },
+      {
+        "id": "r-66ab15073e578727",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes 23: Sid Meier – Part 1"
+      },
+      {
+        "id": "r-592a912df6233102",
+        "action": "added",
+        "at": "2026-10-18T04:40:19+00:00",
+        "title": "Designer Notes 24: Sid Meier – Part 2"
+      }
+    ]
+  },
+  {
     "at": "2026-10-17T04:35:04+00:00",
     "sources": [
       {
