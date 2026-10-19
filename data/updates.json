@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-19T04:48:38+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-19T04:48:38+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 256,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-19T04:48:38+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-19T04:48:38+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-f590a7ebd7e3b419",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 25: Sid Meier – Part 3"
+      },
+      {
+        "id": "r-5c3a0d9cd76ad4fd",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 26: Sid Meier – Part 4"
+      },
+      {
+        "id": "r-87ca446dc982409b",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 27: Lucas Pope"
+      },
+      {
+        "id": "r-937670c2ffdb9252",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 28: George Fan"
+      },
+      {
+        "id": "r-863cec5b2dec2dc4",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 29: Steve Gaynor – Part 1"
+      },
+      {
+        "id": "r-785df1995f76ff26",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 30: Steve Gaynor – Part 2"
+      },
+      {
+        "id": "r-acc678437c3a7a1f",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 31: Margaret Robertson"
+      },
+      {
+        "id": "r-f86a4bf6fc28c1e7",
+        "action": "added",
+        "at": "2026-10-19T04:48:38+00:00",
+        "title": "Designer Notes 32: Asher Vollmer"
+      }
+    ]
+  },
+  {
     "at": "2026-10-18T04:40:19+00:00",
     "sources": [
       {
