@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-20T04:57:03+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-20T04:57:03+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 248,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-20T04:57:03+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-20T04:57:03+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-258912809bffcba8",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 33: Tyler Sigman – Part 1"
+      },
+      {
+        "id": "r-fd885cb9a28ca5f1",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 34: Tyler Sigman – Part 2"
+      },
+      {
+        "id": "r-9cb937e158e20bc7",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 35: Manveer Heir"
+      },
+      {
+        "id": "r-ccc970546e1ee98b",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 36: Chris Hecker – Part 1"
+      },
+      {
+        "id": "r-a579549c47073d1a",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 37: Chris Hecker – Part 2"
+      },
+      {
+        "id": "r-d5ad0538aa221458",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 38: Brian Reynolds – Part 1"
+      },
+      {
+        "id": "r-5942a7e5ccc05cfe",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 39: Brian Reynolds – Part 2"
+      },
+      {
+        "id": "r-9b514fa2d75c0db8",
+        "action": "added",
+        "at": "2026-10-20T04:57:03+00:00",
+        "title": "Designer Notes 40: Brian Reynolds – Part 3"
+      }
+    ]
+  },
+  {
     "at": "2026-10-19T04:48:38+00:00",
     "sources": [
       {
