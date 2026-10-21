@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-21T04:56:37+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-21T04:56:37+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 240,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-21T04:56:37+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-21T04:56:37+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-4fb7ffeaddb49d6b",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 41: David Sirlin – Part 1"
+      },
+      {
+        "id": "r-8abf5bfcc345afd8",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 42: David Sirlin – Part 2"
+      },
+      {
+        "id": "r-c8807e425db569f5",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 43: Clint Hocking – Part 1"
+      },
+      {
+        "id": "r-07bc8d2382df8933",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 44: Clint Hocking – Part 2"
+      },
+      {
+        "id": "r-834167e89995be9b",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 45: Rami Ismail"
+      },
+      {
+        "id": "r-8da6be31cc5a9ed6",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 46: Brendon Chung – Part 1"
+      },
+      {
+        "id": "r-edc8f76b4c1efe12",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 47: Brendon Chung – Part 2"
+      },
+      {
+        "id": "r-a8e598a7cd7028ca",
+        "action": "added",
+        "at": "2026-10-21T04:56:37+00:00",
+        "title": "Designer Notes 48: Adam Saltsman – Part 1"
+      }
+    ]
+  },
+  {
     "at": "2026-10-20T04:57:03+00:00",
     "sources": [
       {
