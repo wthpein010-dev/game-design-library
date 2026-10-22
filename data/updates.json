@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-22T04:56:26+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-22T04:56:26+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 232,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-22T04:56:26+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-22T04:56:26+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-ae8776c8af79a462",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 49: Adam Saltsman – Part 2"
+      },
+      {
+        "id": "r-4e2c8d0eb76fe40f",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 50: Alex Hutchinson"
+      },
+      {
+        "id": "r-9cf3c04720ba8383",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 51: Michał Drozdowski and Przemysław Marszał"
+      },
+      {
+        "id": "r-cba53cdaff051f9c",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 52: Roger Keating"
+      },
+      {
+        "id": "r-a73ef3ce5b9f05e9",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 53: Jon Ingold – Part 1"
+      },
+      {
+        "id": "r-e6a2867d2a4ee73c",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 54: Jon Ingold – Part 2"
+      },
+      {
+        "id": "r-422ef220fe22a372",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 55: Meg Jayanth"
+      },
+      {
+        "id": "r-5c6b2a59b4e198a8",
+        "action": "added",
+        "at": "2026-10-22T04:56:26+00:00",
+        "title": "Designer Notes 56: David Dunham"
+      }
+    ]
+  },
+  {
     "at": "2026-10-21T04:56:37+00:00",
     "sources": [
       {
