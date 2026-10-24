@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-24T04:43:24+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-24T04:43:24+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 216,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-24T04:43:24+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-24T04:43:24+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-1b8d2e548c3e0023",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes #65: Robin Hunicke – Part 2"
+      },
+      {
+        "id": "r-281d9ac0b078ec4b",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes 66: Luca Redwood"
+      },
+      {
+        "id": "r-923e7b0c61e11fdb",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes 67: Old World"
+      },
+      {
+        "id": "r-ce036c3b39a58bac",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes #68: Chris DeLay – Part 1"
+      },
+      {
+        "id": "r-d105b3c68f1de0fe",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes #69: Chris DeLay – Part 2"
+      },
+      {
+        "id": "r-f715ae3238f7e46c",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes #70: Justin Ma"
+      },
+      {
+        "id": "r-85307bcdcaa8e593",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes #71: Matthew Davis"
+      },
+      {
+        "id": "r-d57369567d60fed3",
+        "action": "added",
+        "at": "2026-10-24T04:43:24+00:00",
+        "title": "Designer Notes 72: Harvey Smith"
+      }
+    ]
+  },
+  {
     "at": "2026-10-23T04:58:29+00:00",
     "sources": [
       {
