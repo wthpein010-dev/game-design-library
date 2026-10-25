@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "resources": 297,
+  "resources": 305,
   "lessons": 50,
   "videos": 63,
   "sha256": {
-    "catalog.json": "1e0fc40d1b622cd431905b52ef2c88c4a050003d4fee50d3b7d84e80b49092e9",
+    "catalog.json": "891b317a59d5e31fe27a975e394eee12adbe6c2db8e181efd2bccc38d56c2cb6",
     "lessons.json": "566dba9da7a13e0da6d0567869cdd6ee7c25eb7afd5030388bfc8bcab60172a5",
-    "knowledge.sqlite": "f267946c1818600444f31b4b02fe1ad61cb06bd0526431bfa4f79e2313a914e9"
+    "knowledge.sqlite": "ae806b79f2d40df832f05160126e037d21a4a6341763ba4c0cac41414053b429"
   }
 }

@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-25T04:49:48+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-25T04:49:48+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 208,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-25T04:49:48+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-25T04:49:48+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-8ce78e6779402372",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes 73: Liz England"
+      },
+      {
+        "id": "r-5755f1b9c5dc3e09",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes 74: Charlie Cleveland"
+      },
+      {
+        "id": "r-4a5d1dd3cac7274b",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes 75: Moonbreaker"
+      },
+      {
+        "id": "r-ed570eb4f1ca4a1c",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes 76: Tanya Short"
+      },
+      {
+        "id": "r-53c5406d87126d2a",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes 77: Cole Wehrle"
+      },
+      {
+        "id": "r-652ceebd3a832739",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designer Notes is a Podcast!"
+      },
+      {
+        "id": "r-5a4209c4c131df66",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Designing within Constraints"
+      },
+      {
+        "id": "r-03bc319ffbfb5b0f",
+        "action": "added",
+        "at": "2026-10-25T04:49:48+00:00",
+        "title": "Dev Game Club on Civilization 3"
+      }
+    ]
+  },
+  {
     "at": "2026-10-24T04:43:24+00:00",
     "sources": [
       {
