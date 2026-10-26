@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-26T04:54:38+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-26T04:54:38+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 200,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-26T04:54:38+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-26T04:54:38+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-9654a3e1e74a9f5f",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "D.I.C.E."
+      },
+      {
+        "id": "r-3d63840843f07581",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Did I Get My Wish?"
+      },
+      {
+        "id": "r-ec1d98e979b81946",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Did Microsoft Grant My Wish?"
+      },
+      {
+        "id": "r-d69215d54be479fe",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Donald Trump Won Because Of Bad Game Design"
+      },
+      {
+        "id": "r-621675b87365cf7f",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Don’t Blow It: Successful Franchises (GDC 2004)"
+      },
+      {
+        "id": "r-cd5043b13ae9f1b2",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Dragon Age Legends: Combat Explained"
+      },
+      {
+        "id": "r-29e99cc2ae912b08",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Dragon Age Legends: Economy Explained"
+      },
+      {
+        "id": "r-0484ec2db32eeb71",
+        "action": "added",
+        "at": "2026-10-26T04:54:38+00:00",
+        "title": "Dragon Age Legends: Guilds Explained"
+      }
+    ]
+  },
+  {
     "at": "2026-10-25T04:49:48+00:00",
     "sources": [
       {
