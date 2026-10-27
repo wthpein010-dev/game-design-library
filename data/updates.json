@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-27T05:12:04+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-27T05:12:04+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 192,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-27T05:12:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-27T05:12:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-92a9fb51ba77f082",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "Dragon Age Legends Post-Mortem"
+      },
+      {
+        "id": "r-52e36540b940ff4e",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "E3"
+      },
+      {
+        "id": "r-73d5fb536e66cd02",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "Early 2014 Podcast (and New Game) Roundup"
+      },
+      {
+        "id": "r-52595518125d1470",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "Everybody Else Is Doing It, So Why Not Me?"
+      },
+      {
+        "id": "r-11123f0bf2cf4f86",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "Everything Old is New Again"
+      },
+      {
+        "id": "r-33ff9d5d49a8ab6c",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "“Fear and Loathing in Farmville”"
+      },
+      {
+        "id": "r-596161ae678a2a4d",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "Free Offworld!!!"
+      },
+      {
+        "id": "r-9c2a640fccb22f5c",
+        "action": "added",
+        "at": "2026-10-27T05:12:04+00:00",
+        "title": "GD Column 10: Challenging Design"
+      }
+    ]
+  },
+  {
     "at": "2026-10-26T04:54:38+00:00",
     "sources": [
       {
