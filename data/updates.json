@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-28T05:49:46+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-28T05:49:46+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 184,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-28T05:49:46+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-28T05:49:46+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-184e892092fb490e",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 11: Theme is Not Meaning (Part I)"
+      },
+      {
+        "id": "r-3a066b079bdbb78c",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 12: Theme is Not Meaning (Part II)"
+      },
+      {
+        "id": "r-39d612d27c853517",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 13: The Social Revolution"
+      },
+      {
+        "id": "r-c94f6548debfa9ff",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 14: The Chick Parabola"
+      },
+      {
+        "id": "r-7b0189151d652817",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 15: Start Making Sense"
+      },
+      {
+        "id": "r-a69e26694bd07c5b",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 16: Stop Making Sense"
+      },
+      {
+        "id": "r-024efc598e8f73ed",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 17: Water Finds a Crack"
+      },
+      {
+        "id": "r-27c43b5bad0791a8",
+        "action": "added",
+        "at": "2026-10-28T05:49:46+00:00",
+        "title": "GD Column 18: The End of Games?"
+      }
+    ]
+  },
+  {
     "at": "2026-10-27T05:12:04+00:00",
     "sources": [
       {
