@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-29T05:54:15+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-29T05:54:15+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 176,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-29T05:54:15+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-29T05:54:15+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-2e12f781dff3cf1f",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 19: Taking Feedback"
+      },
+      {
+        "id": "r-ed53a006d2d8c72b",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 2: 2D vs 3D"
+      },
+      {
+        "id": "r-528d1fba50228d54",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 20: The Coming Storm"
+      },
+      {
+        "id": "r-f43c9bf0d25d2cc3",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 3: Game Economics"
+      },
+      {
+        "id": "r-87188527795c7767",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 4: Designing for Free"
+      },
+      {
+        "id": "r-4144b2a337967dd6",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 5: Sid’s Rules"
+      },
+      {
+        "id": "r-d6536e77d6a86a1c",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 6: Asynchronicity"
+      },
+      {
+        "id": "r-e019317d7a33c7f2",
+        "action": "added",
+        "at": "2026-10-29T05:54:15+00:00",
+        "title": "GD Column 7: Our Cheatin’ Hearts"
+      }
+    ]
+  },
+  {
     "at": "2026-10-28T05:49:46+00:00",
     "sources": [
       {
