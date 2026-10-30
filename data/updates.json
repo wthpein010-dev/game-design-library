@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-30T05:55:27+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-30T05:55:27+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 168,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-30T05:55:27+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-30T05:55:27+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-2d5c29b75c7a999f",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 8: Turn-Based vs. Real-Time"
+      },
+      {
+        "id": "r-fce15570b8db3613",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 9: Playing the Odds"
+      },
+      {
+        "id": "r-8c5c6db6cbda436b",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "Gaming Made Me"
+      },
+      {
+        "id": "r-2bcfea16cfe41dff",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 1: Seven Deadly Sins for Strategy Games"
+      },
+      {
+        "id": "r-68eb1123bc8d2ada",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 21: More Than Zero"
+      },
+      {
+        "id": "r-95e37304a4d2d8c3",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 22: When Digital Meets Physical"
+      },
+      {
+        "id": "r-9aa909c06c43d216",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 23: How to Become a Game Designer"
+      },
+      {
+        "id": "r-a42e9b9849641032",
+        "action": "added",
+        "at": "2026-10-30T05:55:27+00:00",
+        "title": "GD Column 24: Should Games Have Stories?"
+      }
+    ]
+  },
+  {
     "at": "2026-10-29T05:54:15+00:00",
     "sources": [
       {
