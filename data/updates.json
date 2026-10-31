@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-10-31T05:52:08+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-10-31T05:52:08+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 160,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-10-31T05:52:08+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-10-31T05:52:08+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-9c6a4304cc2807bf",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "GD Column 25: When Choice is Bad"
+      },
+      {
+        "id": "r-bd008f3145dc4dfd",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "GDC… with a Theme!"
+      },
+      {
+        "id": "r-58a426f2e2a8b46b",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "GFW Podcast"
+      },
+      {
+        "id": "r-f785994a508dd48e",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "God of War"
+      },
+      {
+        "id": "r-48f9f256a3c4557b",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "Great Trip Interview"
+      },
+      {
+        "id": "r-eb431fa76d9126ca",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "GWJ Podcast"
+      },
+      {
+        "id": "r-f3f654508621acc4",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "Halo Wars"
+      },
+      {
+        "id": "r-6e7c8eb3d90c92c3",
+        "action": "added",
+        "at": "2026-10-31T05:52:08+00:00",
+        "title": "Hello World!"
+      }
+    ]
+  },
+  {
     "at": "2026-10-30T05:55:27+00:00",
     "sources": [
       {
