@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-01T06:15:19+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-01T06:15:19+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 152,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-01T06:15:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-01T06:15:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-18dedbf48158dc8a",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "Hello world! (Again!)"
+      },
+      {
+        "id": "r-95b456ad26876b0b",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "How Board Games Matter"
+      },
+      {
+        "id": "r-f3fb82324b6d9e01",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "How Fast Can Risk Go?"
+      },
+      {
+        "id": "r-7035678caf6494d5",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "How to Become a Game Designer"
+      },
+      {
+        "id": "r-3261bdf068465837",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "I am Giving Up on Giving Up"
+      },
+      {
+        "id": "r-444840ada390f38f",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "I Shouldn’t Have to Write this Post"
+      },
+      {
+        "id": "r-2429c406bd193861",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "I’d Like to Apologize in Advance…"
+      },
+      {
+        "id": "r-cfdb235a5b6971dc",
+        "action": "added",
+        "at": "2026-11-01T06:15:19+00:00",
+        "title": "If You are a Game Designer…"
+      }
+    ]
+  },
+  {
     "at": "2026-10-31T05:52:08+00:00",
     "sources": [
       {
