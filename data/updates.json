@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-02T06:17:16+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-02T06:17:16+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 144,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-02T06:17:16+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-02T06:17:16+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-eae40649312be650",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Interview Round-Up"
+      },
+      {
+        "id": "r-8fb25a80ee1b634a",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Interviews Page"
+      },
+      {
+        "id": "r-b6543b8909421976",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Interviews"
+      },
+      {
+        "id": "r-9f81a8ae65decaf6",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Invading Three Moves Ahead"
+      },
+      {
+        "id": "r-31b11014a195e520",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Jeff Strain on MMOs"
+      },
+      {
+        "id": "r-9168c072dd83dfe4",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "J.K. Rowling: Good Author, Bad Game Designer"
+      },
+      {
+        "id": "r-e1837b014d671d22",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Jonathan Blow Asks Why?"
+      },
+      {
+        "id": "r-68c2ff94a16b071c",
+        "action": "added",
+        "at": "2026-11-02T06:17:16+00:00",
+        "title": "Know Your Inheritance (GDC 2018)"
+      }
+    ]
+  },
+  {
     "at": "2026-11-01T06:15:19+00:00",
     "sources": [
       {
