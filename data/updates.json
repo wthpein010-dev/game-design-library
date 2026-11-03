@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-03T06:54:48+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-03T06:54:48+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 136,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-03T06:54:48+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-03T06:54:48+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-a2816ca3df7356a0",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "The Long Tail of People"
+      },
+      {
+        "id": "r-bc57924b580b6146",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "Looking for Testers"
+      },
+      {
+        "id": "r-52beb9f47446384b",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "Meanwhile, Out in the Galaxy…"
+      },
+      {
+        "id": "r-b9fb09a19e72015a",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "2010 Media Blast"
+      },
+      {
+        "id": "r-73651dcb41bf22a6",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "Mind the Gap"
+      },
+      {
+        "id": "r-9b40c31eb53a5951",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "Mod Mods"
+      },
+      {
+        "id": "r-7abc134355d0e850",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "More Punk Rock Games"
+      },
+      {
+        "id": "r-7a67a9e946ce5a59",
+        "action": "added",
+        "at": "2026-11-03T06:54:48+00:00",
+        "title": "M.U.L.E. Turns 25"
+      }
+    ]
+  },
+  {
     "at": "2026-11-02T06:17:16+00:00",
     "sources": [
       {
