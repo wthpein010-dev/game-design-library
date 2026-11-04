@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-04T06:34:07+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-04T06:34:07+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 128,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-04T06:34:07+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-04T06:34:07+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-abe1543e23de2507",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "Music = Shareware?"
+      },
+      {
+        "id": "r-71b7ac01f2e5c852",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Elephant in the Room, Part 1"
+      },
+      {
+        "id": "r-a0a25f862058310e",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Elephant in the Room, Part 2"
+      },
+      {
+        "id": "r-4a2927b7313e41c5",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Elephant in the Room, Part 3"
+      },
+      {
+        "id": "r-4c6bd3ee066ed25f",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Elephant in the Room"
+      },
+      {
+        "id": "r-41db6af4cda10965",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Favorite Week: 2011 Edition"
+      },
+      {
+        "id": "r-a3af05345a66ad64",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Favorite Week: 2015 Edition"
+      },
+      {
+        "id": "r-65ea41f91bd8110a",
+        "action": "added",
+        "at": "2026-11-04T06:34:07+00:00",
+        "title": "My Favorite Week: 2018 Edition"
+      }
+    ]
+  },
+  {
     "at": "2026-11-03T06:54:48+00:00",
     "sources": [
       {
