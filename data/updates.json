@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-05T06:55:23+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-05T06:55:23+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 120,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-05T06:55:23+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-05T06:55:23+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-049e9fa31ba7ffab",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "My Favorite Week…"
+      },
+      {
+        "id": "r-4a716dff8638bc72",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "My GDC Keynote (and Panel)"
+      },
+      {
+        "id": "r-2022384b5f985883",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "My Velvet Underground"
+      },
+      {
+        "id": "r-0a503485668fc556",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "Next Gen Buries the Lede"
+      },
+      {
+        "id": "r-7a6f819ea69de39e",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "Not Getting Burned"
+      },
+      {
+        "id": "r-134bb45931800d1e",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "Now Hear This!"
+      },
+      {
+        "id": "r-5ca5cbae16b6e134",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "Obsessive Drawing"
+      },
+      {
+        "id": "r-de8e5309f310689f",
+        "action": "added",
+        "at": "2026-11-05T06:55:23+00:00",
+        "title": "Odds ‘n’ Sods"
+      }
+    ]
+  },
+  {
     "at": "2026-11-04T06:34:07+00:00",
     "sources": [
       {
