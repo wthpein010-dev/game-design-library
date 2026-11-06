@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-06T06:55:00+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-06T06:55:00+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 112,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-06T06:55:00+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-06T06:55:00+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-da753a6cd7b42341",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Off to Brazil…"
+      },
+      {
+        "id": "r-78a4f64b968f9844",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld and Early Access"
+      },
+      {
+        "id": "r-8a2bf675530c4f54",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Rules Circa June 2014"
+      },
+      {
+        "id": "r-8dc2bc3a7b07d672",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Trading Company: An RTS Without Guns"
+      },
+      {
+        "id": "r-c10e68bc437f4cdf",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Trading Company Early Access Postmortem"
+      },
+      {
+        "id": "r-fbedd8a6e78b23dc",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Trading Company GDC Postmortem"
+      },
+      {
+        "id": "r-48943d1eab829d73",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Trading Company – Jupiter’s Forge"
+      },
+      {
+        "id": "r-809f5bb6f1a0b27b",
+        "action": "added",
+        "at": "2026-11-06T06:55:00+00:00",
+        "title": "Offworld Trading Company Podcast Roundup"
+      }
+    ]
+  },
+  {
     "at": "2026-11-05T06:55:23+00:00",
     "sources": [
       {
