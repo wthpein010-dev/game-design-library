@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-07T06:06:02+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-07T06:06:02+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 104,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-07T06:06:02+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-07T06:06:02+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-ad5ab4142d4d1da5",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #3: One Unit per Tile"
+      },
+      {
+        "id": "r-039d9da435e86dd3",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #1: Orders"
+      },
+      {
+        "id": "r-9a8c9ab4e5aa9a29",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #10: Diplomacy"
+      },
+      {
+        "id": "r-786278f2d430ad39",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #11: The End"
+      },
+      {
+        "id": "r-51a3a4eb7e14da33",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #2: City Sites"
+      },
+      {
+        "id": "r-339a556e57c0d561",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #4: The Technology Deck"
+      },
+      {
+        "id": "r-dc9d1992cc0cc3b4",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #5: Yields"
+      },
+      {
+        "id": "r-7fc2cc9d61509a8e",
+        "action": "added",
+        "at": "2026-11-07T06:06:02+00:00",
+        "title": "Old World Designer Notes #6: Citizens and Specialists"
+      }
+    ]
+  },
+  {
     "at": "2026-11-06T06:55:00+00:00",
     "sources": [
       {
