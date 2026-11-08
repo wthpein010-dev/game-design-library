@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-08T06:10:31+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-08T06:10:31+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 96,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-08T06:10:31+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-08T06:10:31+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-4fbbf8e6836c110a",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "Old World Designer Notes #7: Characters"
+      },
+      {
+        "id": "r-2afb69eaef020229",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "Old World Designer Notes #8: Opinion"
+      },
+      {
+        "id": "r-5a4fd4906d54d6a4",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "Old World Designer Notes #9: Events"
+      },
+      {
+        "id": "r-4e484fc74d90a5d1",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "Old World Podcast Roundup!"
+      },
+      {
+        "id": "r-79007ae295a5a03c",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "On the Vault"
+      },
+      {
+        "id": "r-1e0b84d258e27700",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "OTC Designer Notes #10: Optimization Center"
+      },
+      {
+        "id": "r-236b142bf8c5a094",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "OTC Designer Notes #11: Hacker Array"
+      },
+      {
+        "id": "r-5190555d6bf594a9",
+        "action": "added",
+        "at": "2026-11-08T06:10:31+00:00",
+        "title": "OTC Designer Notes #12: Offworld Market"
+      }
+    ]
+  },
+  {
     "at": "2026-11-07T06:06:02+00:00",
     "sources": [
       {
