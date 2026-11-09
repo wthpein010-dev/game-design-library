@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-09T06:44:30+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-09T06:44:30+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 88,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-09T06:44:30+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-09T06:44:30+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-7b36dcd877feffe1",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #13: Black Market (Part I)"
+      },
+      {
+        "id": "r-0f2e697142f34c04",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #14: Black Market (Part II)"
+      },
+      {
+        "id": "r-f1eb7f89b29cd4a1",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #15: Black Market (Part III)"
+      },
+      {
+        "id": "r-adaaf5cc15b81613",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #16: HQ Types"
+      },
+      {
+        "id": "r-21dcb6b528d5dfc4",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #17: Stock Market"
+      },
+      {
+        "id": "r-45d314de0046be83",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #18: Adaptive Gameplay"
+      },
+      {
+        "id": "r-9ef9c862c063f462",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #19: Special Thanks"
+      },
+      {
+        "id": "r-ce1bad77373fd5f0",
+        "action": "added",
+        "at": "2026-11-09T06:44:30+00:00",
+        "title": "OTC Designer Notes #2: Free Markets"
+      }
+    ]
+  },
+  {
     "at": "2026-11-08T06:10:31+00:00",
     "sources": [
       {
