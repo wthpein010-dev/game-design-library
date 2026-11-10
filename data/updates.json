@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-10T07:25:34+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-10T07:25:34+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 80,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-10T07:25:34+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-10T07:25:34+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-141496857498f8b5",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #3: Claims"
+      },
+      {
+        "id": "r-e547df3572164920",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #4: Resources"
+      },
+      {
+        "id": "r-1c90dad587126d6c",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #5: Debt"
+      },
+      {
+        "id": "r-651f6a7409318fb1",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #6: Auctions"
+      },
+      {
+        "id": "r-a520c274dabd71c3",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #7: Reveal Map"
+      },
+      {
+        "id": "r-78492ee2c92d076e",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #8: Neutral Colony"
+      },
+      {
+        "id": "r-86c60cbeb4c73943",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "OTC Designer Notes #9: Patent Lab"
+      },
+      {
+        "id": "r-f0f34d1dc32c916f",
+        "action": "added",
+        "at": "2026-11-10T07:25:34+00:00",
+        "title": "Play Early, Play Often: Prototyping Civilization 4 (GDC 2006)"
+      }
+    ]
+  },
+  {
     "at": "2026-11-09T06:44:30+00:00",
     "sources": [
       {
