@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-11T06:35:00+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-11T06:35:00+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 72,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-11T06:35:00+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-11T06:35:00+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-4469b859f7c44f6e",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Playing to Lose: AI and Civilization (GDC 2008)"
+      },
+      {
+        "id": "r-7e85fffb194b9bab",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Playing to Lose: The Slides"
+      },
+      {
+        "id": "r-823f5cd9181f819e",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Playing to Lose: The Write-Ups"
+      },
+      {
+        "id": "r-660721fe391fabe8",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Designer Notes #7: Brad Muir"
+      },
+      {
+        "id": "r-d96243704dadede1",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Designer Notes #9: Bruce Shelley"
+      },
+      {
+        "id": "r-0b103f359fc7216d",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Podcast Campaign March 2011: No Mercy!"
+      },
+      {
+        "id": "r-8edd6deed57569e7",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Designer Notes #6: Chelsea Howe"
+      },
+      {
+        "id": "r-657a9cf2f8fc5d66",
+        "action": "added",
+        "at": "2026-11-11T06:35:00+00:00",
+        "title": "Designer Notes #8: Daniel Benmergui"
+      }
+    ]
+  },
+  {
     "at": "2026-11-10T07:25:34+00:00",
     "sources": [
       {
