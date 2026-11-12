@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-12T07:18:30+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-12T07:18:30+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 64,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-12T07:18:30+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-12T07:18:30+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-2e7403b67439e677",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Designer Notes #5: Daniel Cook"
+      },
+      {
+        "id": "r-e7fa2d7e06692c68",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Designer Notes #3: Frank Lantz"
+      },
+      {
+        "id": "r-e573390db76c5579",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Designer Notes #4: Henrik Fahraeus (with Jon Shafer)"
+      },
+      {
+        "id": "r-126902a5b94cc916",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Podcasts"
+      },
+      {
+        "id": "r-cbba69cf6ff3b333",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Polycast Too"
+      },
+      {
+        "id": "r-2ecbf7483dd797ea",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "Portal"
+      },
+      {
+        "id": "r-c600d423f209ec65",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "PRACTICE 2013: The Art of Strategy"
+      },
+      {
+        "id": "r-aba5a142f8c57288",
+        "action": "added",
+        "at": "2026-11-12T07:18:30+00:00",
+        "title": "PRACTICE"
+      }
+    ]
+  },
+  {
     "at": "2026-11-11T06:35:00+00:00",
     "sources": [
       {
