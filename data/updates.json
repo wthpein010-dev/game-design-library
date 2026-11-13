@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-13T06:52:08+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-13T06:52:08+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 56,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-13T06:52:08+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-13T06:52:08+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-572d01a609829475",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Presentations"
+      },
+      {
+        "id": "r-c34d2146aa16a21a",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Pure Insanity"
+      },
+      {
+        "id": "r-71a12291104f1daf",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Puzzle Quest"
+      },
+      {
+        "id": "r-ec469bff500a1810",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Read Me"
+      },
+      {
+        "id": "r-201ccae0c6fad4bf",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Reader Mailbag #1"
+      },
+      {
+        "id": "r-5f79bd6b0bf4316f",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Really?"
+      },
+      {
+        "id": "r-58ef49a8acda19f4",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "Risk: Black Ops"
+      },
+      {
+        "id": "r-06c69b72700d5a85",
+        "action": "added",
+        "at": "2026-11-13T06:52:08+00:00",
+        "title": "RPS Interview"
+      }
+    ]
+  },
+  {
     "at": "2026-11-12T07:18:30+00:00",
     "sources": [
       {
