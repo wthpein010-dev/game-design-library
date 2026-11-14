@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-14T06:34:04+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-14T06:34:04+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 48,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-14T06:34:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-14T06:34:04+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-0d83597aea9342d4",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Sid’s Revolution"
+      },
+      {
+        "id": "r-e5183284a04afa37",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "So this is what Twitter is for…"
+      },
+      {
+        "id": "r-65d7cf882872a858",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Speaking of Tutorials…"
+      },
+      {
+        "id": "r-5e9ab1d65abeaa0d",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Spooky"
+      },
+      {
+        "id": "r-2f22440af7a6d7b5",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Spore: My View of the Elephant"
+      },
+      {
+        "id": "r-708d873b6e101aec",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "The Stanford Lecture Slides"
+      },
+      {
+        "id": "r-16737266917ffdc5",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Subversion"
+      },
+      {
+        "id": "r-a37460fee9d6bc61",
+        "action": "added",
+        "at": "2026-11-14T06:34:04+00:00",
+        "title": "Talking about Dragon Age Legends and Social Games"
+      }
+    ]
+  },
+  {
     "at": "2026-11-13T06:52:08+00:00",
     "sources": [
       {
