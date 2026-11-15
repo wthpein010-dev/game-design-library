@@ -1,5 +1,94 @@
 [
   {
+    "at": "2026-11-15T06:42:14+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-15T06:42:14+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 40,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-15T06:42:14+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-15T06:42:14+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [
+          "Archive: The read operation timed out"
+        ],
+        "status": "partial",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-f323673f7d10603d",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "That’s SO Punk Rock!"
+      },
+      {
+        "id": "r-25d20b9b7722950c",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The 7-Year Switch…"
+      },
+      {
+        "id": "r-bf55ef4c8fe5e919",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "“The best music game ever made”"
+      },
+      {
+        "id": "r-f1ae2b019249077d",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The Case for Metacritic"
+      },
+      {
+        "id": "r-69389006171c074c",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The Case for Piracy"
+      },
+      {
+        "id": "r-7c452879323362c4",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The Case for Used Games"
+      },
+      {
+        "id": "r-75247b72dcc68f1b",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The Free Market of Fun"
+      },
+      {
+        "id": "r-a0ae058a3dd27428",
+        "action": "added",
+        "at": "2026-11-15T06:42:14+00:00",
+        "title": "The Game Design Round Table #53: Martians & Mohawks"
+      }
+    ]
+  },
+  {
     "at": "2026-11-14T06:34:04+00:00",
     "sources": [
       {
