@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-16T06:39:32+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-16T06:39:32+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 32,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-16T06:39:32+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-16T06:39:32+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-1a7b5217e48ba304",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Game Design Round Table #93 and #94"
+      },
+      {
+        "id": "r-c14332d1cdb50f42",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "“The great persyn idea is a market concession to the popular bourgeois outlook on history, what Marx called historical idealism.”"
+      },
+      {
+        "id": "r-49eb82a00a3fbac8",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Hidden Benefit of OnLive"
+      },
+      {
+        "id": "r-78d73bd3868b3b3b",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Most Surprising Thing So Far"
+      },
+      {
+        "id": "r-67e0b8d586360a03",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Paul Stephanouk Interview"
+      },
+      {
+        "id": "r-86f4a3ce1b5e3af3",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Perfect Strategy Podcast"
+      },
+      {
+        "id": "r-a47b04df5b28190f",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Rest of the Interview"
+      },
+      {
+        "id": "r-6c9c5dcf23039f95",
+        "action": "added",
+        "at": "2026-11-16T06:39:32+00:00",
+        "title": "The Road to Zynga"
+      }
+    ]
+  },
+  {
     "at": "2026-11-15T06:42:14+00:00",
     "sources": [
       {
