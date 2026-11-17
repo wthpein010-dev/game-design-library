@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-17T08:00:39+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-17T08:00:39+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 24,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-17T08:00:39+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-17T08:00:39+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-be7336f6692b66bd",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "The Rockies and their Humidor"
+      },
+      {
+        "id": "r-f832b363dfeaf6fa",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "The Siqi Chen Interview"
+      },
+      {
+        "id": "r-0f467715a3787a53",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "Theme is Not Meaning (GDC 2010)"
+      },
+      {
+        "id": "r-f56a26409e654762",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "Theme is Not Meaning: The Slides"
+      },
+      {
+        "id": "r-bd1e61fe0df11b94",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "They Say Ideas Are a Dime a Dozen"
+      },
+      {
+        "id": "r-d3dfa26a7c20fb21",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "Think Like A Game Designer Podcast"
+      },
+      {
+        "id": "r-1ba326c59b7546e3",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "This Game Kills Fascists"
+      },
+      {
+        "id": "r-43f28dbe1950595e",
+        "action": "added",
+        "at": "2026-11-17T08:00:39+00:00",
+        "title": "This Old World"
+      }
+    ]
+  },
+  {
     "at": "2026-11-16T06:39:32+00:00",
     "sources": [
       {
