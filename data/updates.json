@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-19T07:33:02+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-19T07:33:02+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 8,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-19T07:33:02+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-19T07:33:02+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-d3b8d4eabae3619e",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "Tutorials"
+      },
+      {
+        "id": "r-e1da0874ebb51679",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "Two Thoughts on GDC 2009"
+      },
+      {
+        "id": "r-e335d28f07b0b3a2",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "US vs. Germany: The Ideal Draw"
+      },
+      {
+        "id": "r-d33e9fcfd8f7ce97",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "Videos"
+      },
+      {
+        "id": "r-4900cf5c92e3ec86",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "Watch This"
+      },
+      {
+        "id": "r-9584611cdcb23697",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "Watching the PitBoss…"
+      },
+      {
+        "id": "r-3c859b87065fac65",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "What about Rock Band?"
+      },
+      {
+        "id": "r-5600da46d738dd5a",
+        "action": "added",
+        "at": "2026-11-19T07:33:02+00:00",
+        "title": "What Microsoft Should Have Done"
+      }
+    ]
+  },
+  {
     "at": "2026-11-18T07:37:08+00:00",
     "sources": [
       {
