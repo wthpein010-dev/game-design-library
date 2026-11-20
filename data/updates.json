@@ -1,5 +1,93 @@
 [
   {
+    "at": "2026-11-20T07:24:19+00:00",
+    "sources": [
+      {
+        "source_id": "designer-notes",
+        "source": "Designer Notes",
+        "at": "2026-11-20T07:24:19+00:00",
+        "new": 8,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 32
+      },
+      {
+        "source_id": "game-design-concepts",
+        "source": "Game Design Concepts",
+        "at": "2026-11-20T07:24:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 10
+      },
+      {
+        "source_id": "gdkeys",
+        "source": "GDKeys",
+        "at": "2026-11-20T07:24:19+00:00",
+        "new": 0,
+        "updated": 0,
+        "errors": [],
+        "archive_remaining": 0,
+        "status": "ok",
+        "fetched": 9
+      }
+    ],
+    "changes": [
+      {
+        "id": "r-554e3bc71a1c1728",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "Whither Gen?"
+      },
+      {
+        "id": "r-2a4ebb3cfb86655c",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "Whither Workshop?"
+      },
+      {
+        "id": "r-13d2acbbecdc8d77",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "Who Needs a PlayStation?"
+      },
+      {
+        "id": "r-dfeb265d5583fdc3",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "Why Multiplayer is So Important"
+      },
+      {
+        "id": "r-aa6bc02b8eeeb86e",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "Writings"
+      },
+      {
+        "id": "r-be802c08477f54d5",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "You Have No Idea How Hard It Is To Run A Sweatshop, Part 1"
+      },
+      {
+        "id": "r-258e70c9a6c5ad57",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "You Have No Idea How Hard It Is To Run A Sweatshop, Part 2"
+      },
+      {
+        "id": "r-47a304569fd8e97f",
+        "action": "added",
+        "at": "2026-11-20T07:24:19+00:00",
+        "title": "GDC 2023: You Have No Idea How Hard It Is To Run A Sweatshop"
+      }
+    ]
+  },
+  {
     "at": "2026-11-19T07:33:02+00:00",
     "sources": [
       {
