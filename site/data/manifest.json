@@ -4,8 +4,8 @@
   "lessons": 50,
   "videos": 63,
   "sha256": {
-    "catalog.json": "11d222c24d94ddfb5f7f38d757c2919515994ecbd532c1f441301a163673b8c3",
+    "catalog.json": "f1abf167eb3d87adacc1c0bd337ece2ce21b048e248bf1884cf767330cdc7412",
     "lessons.json": "566dba9da7a13e0da6d0567869cdd6ee7c25eb7afd5030388bfc8bcab60172a5",
-    "knowledge.sqlite": "13fe76cdbd814f5b039ab661866698cf93cb4e75ee6391975ce68ab23caac542"
+    "knowledge.sqlite": "8bf53c9b8c88a2862c072afca3d8cf592bc19a2001f5ed140891f0c20add5943"
   }
 }
